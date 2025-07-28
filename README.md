@@ -30,7 +30,7 @@
 ---
 
 ### 📫 Let’s Connect!
-- 🔗 [LinkedIn] https://github.com/Musaibmax/MUISAB
+- 🔗 [LinkedIn] https://www.linkedin.com/in/musaib-bin-sameer-a736b6377/
 - 📧 Email: sa9074452@gmail.com
 - 💬 Always open to collaborate, learn, and grow together!
 
