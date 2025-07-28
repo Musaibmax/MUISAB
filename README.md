@@ -1,5 +1,3 @@
-# MUISAB
-LAB WORK
 # 👋 Hello World, I'm Musaib Bin Sameer!
 
 🎓 I'm a first-year BCA student, just starting my journey into the world of computer science and technology.  
@@ -32,8 +30,8 @@ LAB WORK
 ---
 
 ### 📫 Let’s Connect!
-- 🔗 [LinkedIn](https://linkedin.com/in/your-link) *(replace with your actual link)*
-- 📧 Email: your.email@example.com *(replace with your email)*
+- 🔗 [LinkedIn](https://github.com/Musaibmax/MUISAB)
+- 📧 Email: sa9074452@gmail.com
 - 💬 Always open to collaborate, learn, and grow together!
 
 ---
