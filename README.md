@@ -4,7 +4,7 @@
 💻 I'm currently learning programming languages and exploring different fields in tech to find my true passion.
 
 ### 🚀 Areas I'm Exploring:
-- 🌐 Web Development (HTML, CSS, JavaScript)
+- 🌐 Web Development (C, C++, HTML, CSS, JavaScript)
 - 📱 App Development (Android basics coming soon!)
 - 🤖 Artificial Intelligence & Machine Learning
 - 💡 Core Computer Science Concepts (DSA, OOP, OS, DBMS)
@@ -12,6 +12,8 @@
 ---
 
 ### 🛠️ Tools & Technologies (Learning Stage)
+- C
+- C++
 - Python 🐍
 - HTML & CSS 🌐
 - JavaScript ⚡ (soon!)
